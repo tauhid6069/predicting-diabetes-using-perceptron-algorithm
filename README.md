@@ -33,8 +33,8 @@ Diabetes prediction is a classic classification problem in machine learning. By 
 
 ### 1) Clone the repo
 ```bash
-git clone https://github.com/your-username/diabetes-perceptron.git
-cd diabetes-perceptron
+git clone https://github.com/tauhid6069/predicting-diabetes-using-perceptron-algorithm.git
+cd predicting-diabetes-using-perceptron-algorithm
 ```
 
 ### 2) Install dependencies
